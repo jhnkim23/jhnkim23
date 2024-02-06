@@ -9,7 +9,7 @@ You can regularly find me:
 - Learning new languages (not just coding ones)
 
 ## 🌐 Reach Me:
-You can reach me thorugh my gmail, jhn.kimm23@gmail.com, or in the social linked below:
+You can reach me thorugh my gmail, jhn.kimm23@gmail.com, or on LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhn-kim) 
 
 # 💻 Tech Stack:
