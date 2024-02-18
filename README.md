@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍🎓 About Me:
 Hi!
 My name is John, a computer science student at UMD! 
 
