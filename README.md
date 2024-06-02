@@ -4,12 +4,13 @@ My name is John, a computer science student at UMD!
 
 I am currently:
 - Working on my current project, FriendMe, that helps users video chat with others within a certain distance
-- Trying to send a V5
+- Sending a V5 🧗
+- Learning 🇰🇷
 
 Some of my hobbies include:
 - Playing (if you can call it that 😅) the guitar
-- Living vicariously through romance k-dramas
-- Learning new languages (not just coding ones)
+- Living vicariously through romance k-dramas 💕
+
 
 ## 🌐 Reach Me:
 You can reach me thorugh my gmail, jhn.kimm23@gmail.com, or on LinkedIn:
