@@ -2,8 +2,11 @@
 Hi!
 My name is John, a computer science student at UMD! 
 
-You can regularly find me:
-- Working on my current project, reMind, that automates mind map creation from user-inputted transcripts
+I am currently:
+- Working on my current project, FriendMe, that helps users video chat with others within a certain distance
+- Trying to send a V5
+
+Some of my hobbies include:
 - Playing (if you can call it that 😅) the guitar
 - Living vicariously through romance k-dramas
 - Learning new languages (not just coding ones)
